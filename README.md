@@ -1,7 +1,7 @@
 <h1 align="center">CEP SEARCHER</h1>
 
 <p align="center">
-Projeto para facilitar acesso a portifólios, redes sociais e links em geral
+Projeto para facilitar acesso a buscas de ceps
 </p>
 
 <p align="center">
